@@ -1,0 +1,1 @@
+# Frontend deployment script (e.g., to Vercel, Netlify)
